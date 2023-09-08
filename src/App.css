@@ -1,0 +1,38 @@
+.App{
+  text-align: center;
+  height: 200vh;
+  width: 100vw;
+  background: bisque;
+}
+
+.content{
+  height: 45vh;
+  display: flex;
+}
+
+.section{
+  padding: 10px 30px;
+  width: 50%;
+}
+
+h1{
+  padding-top: 20px;
+  margin-bottom: 60px;
+  color: burlywood;
+  text-shadow: rgb(255, 255, 255) -1px 1px 0px, rgb(255, 255, 255) 1px 1px 0px, rgb(255, 255, 255) 1px -1px 0px, rgb(255, 255, 255) -1px -1px 0px;
+}
+
+.small-title{
+  border-bottom: 3px solid darkorange;
+  margin: 0 100px;
+}
+
+p{
+  margin-top: 15px;
+  text-align: revert;
+}
+
+.image-section img{
+  width: 70%;
+  height: auto;
+}
